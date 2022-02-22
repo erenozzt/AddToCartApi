@@ -1,7 +1,7 @@
 
 ## Add To Cart Project
 
-This project is a web API created with dot net core 3.1. There are endpoints in which all products are listed and there is an action to add products to the cart. The project does not require any database installation, etc. it can be lifted up without requiring. If everything goes fine then your server is running. In my case it is https://localhost:44392/swagger/index.html
+This project is a web API created with dot net core 3.1. There are endpoints in which all products are listed and there is an action to add products to the cart. The products were pulled from the json file because there was no database installation. The project does not require any database installation, etc. it can be lifted up without requiring. If everything goes fine then your server is running. In my case it is https://localhost:44392/swagger/index.html
 
 The swagger interface opens when the swagger UI is installed in the project and launch as default. You can also request via Postman. Here you can reach the endpoints, take the action of adding products to the cart and list the products. when adding products to the cart, the stocks of the products are checked and added to the cart. if there is no stock in the product, the product is not going to add.
 
