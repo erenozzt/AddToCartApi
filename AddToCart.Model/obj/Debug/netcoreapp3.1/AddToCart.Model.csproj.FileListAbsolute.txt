@@ -1,0 +1,10 @@
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\bin\Debug\netcoreapp3.1\AddToCart.Model.deps.json
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\bin\Debug\netcoreapp3.1\AddToCart.Model.dll
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\bin\Debug\netcoreapp3.1\AddToCart.Model.pdb
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\obj\Debug\netcoreapp3.1\AddToCart.Model.csproj.AssemblyReference.cache
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\obj\Debug\netcoreapp3.1\AddToCart.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\obj\Debug\netcoreapp3.1\AddToCart.Model.AssemblyInfoInputs.cache
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\obj\Debug\netcoreapp3.1\AddToCart.Model.AssemblyInfo.cs
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\obj\Debug\netcoreapp3.1\AddToCart.Model.csproj.CoreCompileInputs.cache
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\obj\Debug\netcoreapp3.1\AddToCart.Model.dll
+C:\Users\ereno\OneDrive\Masaüstü\ciceksepeti\AddToCart\AddToCart.Model\obj\Debug\netcoreapp3.1\AddToCart.Model.pdb

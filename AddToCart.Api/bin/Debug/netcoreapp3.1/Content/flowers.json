@@ -1,0 +1,240 @@
+[
+  {
+    "price": 15.99,
+    "details": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
+    "productName": "Azalea",
+    "productId": 1,
+    "stock": 4
+  },
+  {
+    "price": 33.99,
+    "details": "Beautiful large royal purple flowers adorn attractive satiny green leaves that turn orange\\/red in cold weather. Grows to up to 18 feet, or prune annually to shorten.",
+    "productName": "Tibouchina Semidecandra",
+    "productId": 2,
+    "stock": 7
+  },
+  {
+    "price": 12.99,
+    "details": "Blooms in summer, 20-35 inches high. Fertilize regularly for best results. Full sun, drought tolerant.",
+    "productName": "Hibiscus",
+    "productId": 3,
+    "stock": 2
+  },
+  {
+    "price": 5.99,
+    "details": "Quick-growing, herbaceous, shrub reaching up to 30 inches in height, forming a rounded, dense bush.",
+    "productName": "Plectranthus",
+    "productId": 4,
+    "stock": 14
+  },
+  {
+    "price": 15.99,
+    "details": "Slow growing, upright to spreading shrub. Oval, glossy, leaves and profuse winter to spring blooming flowers.",
+    "productName": "Camellia Japonica",
+    "productId": 5,
+    "stock": 36
+  },
+  {
+    "price": 10.99,
+    "details": "Thorny woody vine scrambles over other plants with their hooked thorns. Pest free.",
+    "productName": "Bougainvillea Spectabilis",
+    "productId": 6,
+    "stock": 47
+  },
+  {
+    "price": 22.99,
+    "details": "Deep purple colored flowers bushy rounded growth habit to 3 feet tall. Plant in full sun. Water regularly.",
+    "productName": "Rosa Burgundy",
+    "productId": 7,
+    "stock": 52
+  },
+  {
+    "price": 22.99,
+    "details": "Deep purple colored flowers bushy rounded growth habit to 3 feet tall. Plant in full sun. Water regularly.",
+    "productName": "Rosa Iceberg",
+    "productId": 8,
+    "stock": 63
+  },
+  {
+    "price": 45.99,
+    "details": "They do not thrive indoors, where the light is too dim, and humidity too low, for them to grow properly.",
+    "productName": "Bonsai Tree",
+    "productId": 9,
+    "stock": 0
+  },
+  {
+    "price": 12.99,
+    "details": "Blooms continuously from early spring to first frost. Full sun or part shade, moist well-drained soil.",
+    "productName": "Calibrachoa Noa",
+    "productId": 10,
+    "stock": 1
+  },
+  {
+    "price": 14.99,
+    "details": "The flowers last about ten weeks. They have a waxy texture and reach a height of more than 20 inches.",
+    "productName": "Cymbidium Aestivum",
+    "productId": 11,
+    "stock": 5
+  },
+  {
+    "price": 4.99,
+    "details": "Creamy-white centers, medium green outer foliage with flattened outer foliage.",
+    "productName": "Brassica Oleracea",
+    "productId": 12,
+    "stock": 10
+  },
+  {
+    "price": 4.99,
+    "details": "Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.",
+    "productName": "Viola Penny Orange Jump Up",
+    "productId": 13,
+    "stock": 11
+  },
+  {
+    "price": 5.99,
+    "details": "Cotula have very fragrant orange flowers that bloom in the middle of summer.",
+    "productName": "Cotula",
+    "productId": 14,
+    "stock": 22
+  },
+  {
+    "price": 4.99,
+    "details": "Well drained neutral to slightly acid soil, bright light. Do not over-fertilize or these flowers will lose scent.",
+    "productName": "Pelargonium Peltatum",
+    "productId": 15,
+    "stock": 33
+  },
+  {
+    "price": 3.99,
+    "details": "Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.",
+    "productName": "Pansy Blue Shades",
+    "productId": 16,
+    "stock": 46
+  },
+  {
+    "price": 3.99,
+    "details": "Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.",
+    "productName": "Pansy Yellow with Blotch",
+    "productId": 17,
+    "stock": 88
+  },
+  {
+    "price": 25.99,
+    "details": "Choose the brightest windows in your house for your orchids, place on an humidity tray and spray regularly.",
+    "productName": "Phalaenopsis Purple",
+    "productId": 18,
+    "stock": 83
+  },
+  {
+    "price": 5.99,
+    "details": "They thrive in fertile, fast draining, slightly alkaline (pH 6.75) soil. Avoid overwatering.",
+    "productName": "Dianthus",
+    "productId": 19,
+    "stock": 72
+  },
+  {
+    "price": 9.99,
+    "details": "Chrysanthemums respond to plenty of food and moisture, and prefer full sun.",
+    "productName": "Chrysanthemum",
+    "productId": 20,
+    "stock": 65
+  },
+  {
+    "price": 7.99,
+    "details": "Summer flowering, 12–18” high, likes full sun and well drained soil. Drought tolerant.",
+    "productName": "Armeria Alliacea",
+    "productId": 21,
+    "stock": 54
+  },
+  {
+    "price": 6.99,
+    "details": "Grows to 15 inches. The species is easy to grow from seeds or cuttings. This species prefers full sun.",
+    "productName": "Salvia Splendens",
+    "productId": 22,
+    "stock": 43
+  },
+  {
+    "price": 8.99,
+    "details": "Easily grown, tolerant of drought and poor soil, flower and foliage improves with feeding. Full sun.",
+    "productName": "Agapanthus",
+    "productId": 23,
+    "stock": 32
+  },
+  {
+    "price": 5.99,
+    "details": "These plants are very hardy, easy to grow, and increase readily. Average flower size is 3-4 inches in diameter.",
+    "productName": "Iris Sibirica",
+    "productId": 24,
+    "stock": 21
+  },
+  {
+    "price": 9.99,
+    "details": "Chrysanthemums grow best and produce the most flowers if they are planted in full sunshine.",
+    "productName": "Chrysanthemum",
+    "productId": 25,
+    "stock": 10
+  },
+  {
+    "price": 10.99,
+    "details": "Grown primarily for its attractive silvergray foliage rather than its yellow flowers. Drought tolerant.",
+    "productName": "Senecio Cineraria",
+    "productId": 26,
+    "stock": 19
+  },
+  {
+    "price": 18.99,
+    "details": "Add water until there is half inch of dry soil on the surface. Do not water again until the soil is completely dry.",
+    "productName": "Red Cactus",
+    "productId": 27,
+    "stock": 3
+  },
+  {
+    "price": 30.99,
+    "details": "Drought tolerant, well drained soil. Prefers full sun.",
+    "productName": "Aloe Vera",
+    "productId": 28,
+    "stock": 6
+  },
+  {
+    "price": 20.99,
+    "details": "Easy to care for, requiring watering only when they’re dry. They like bright but indirect light.",
+    "productName": "Schlumbergera",
+    "productId": 29,
+    "stock": 8
+  },
+  {
+    "price": 18.5,
+    "details": "Locate it in a place where it is exposed to at least a few hours of direct sunlight.",
+    "productName": "Senecio Rowleyanus",
+    "productId": 30,
+    "stock": 10
+  },
+  {
+    "price": 12.99,
+    "details": "These plants blend in among the stones as a means of protection. Grazing animals would otherwise eat them.",
+    "productName": "Lithops",
+    "productId": 31,
+    "stock": 100
+  },
+  {
+    "price": 55.99,
+    "details": "The Mexican Fence Post will eventually reach 20 feet tall. Protect the growing tips with Styrofoam cups on the tops.",
+    "productName": "Pachycereus Marginatus",
+    "productId": 32,
+    "stock": 101
+  },
+  {
+    "price": 25.99,
+    "details": "Growing as a large roughly spherical globe, it may eventually reach over a meter in height after many years.",
+    "productName": "Echinocactus Grusonii",
+    "productId": 33,
+    "stock": 50
+  },
+  {
+    "price": 16.99,
+    "details": "The plants should be kept almost completely dry during the winter months, once a month should be fine.",
+    "productName": "Opuntia Falcata",
+    "productId": 34,
+    "stock": 80
+  }
+]
